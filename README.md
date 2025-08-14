@@ -2,8 +2,8 @@
 
 Este é um projeto de um jogo Pong clássico, totalmente recriado com HTML, CSS e JavaScript puro, com uma estética moderna de neon e synthwave.
 
-![Screenshot do Jogo](C:\Users\marco\VSCODE\pong-game\template\imagens)
-*(Dica: Substitua o link acima pelo link de um screenshot que você tirar!)*
+![Screenshot do Jogo](pong-game\template\imagens)
+
 
 ---
 
