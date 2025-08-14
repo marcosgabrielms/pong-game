@@ -2,7 +2,7 @@
 
 Este é um projeto de um jogo Pong clássico, totalmente recriado com HTML, CSS e JavaScript puro, com uma estética moderna de neon e synthwave.
 
-![Screenshot do Jogo](pong-game\template\imagens)
+[!Screenshot do Jogo](template/imagens/Captura de tela 2025-08-14 194915.png)
 
 
 ---
