@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pong Neon </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="startScreen">
+        <h1>PONG NEON</h1>
+        <p>Digite seu nome para começar</p>
+        <input type="text" id="playerNameInput" placeholder="JOGADOR" maxlength="15">
+        <button id="startGameBtn">Iniciar Jogo</button>
+    </div>
+
+    <div id="gameContainer">
+        <canvas id="pongCanvas" width="800" height="500"></canvas>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
